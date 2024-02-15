@@ -1,13 +1,14 @@
-# coef041b2a18bb42828526e42
+# Dodgy Dave's Stock Predictions AI App
 
 Quick start:
 
 ```
 $ npm install
 $ npm start
-````
+```
 
 Head over to https://vitejs.dev/ to learn more about using vite
+
 ## About Scrimba
 
 At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
